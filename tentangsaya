@@ -2,19 +2,19 @@
   <head>
     <title>TENTANG SAYA</title>
   </head>
-  
+
   <body>
     <center>
-      
+
       <table width="75%" border="2">
         <tr>
           <th width="20%"><img src="images/kvpjb.png" width="100%" ></th>
           <th><font size="50">My First Web 1</font></th>
         </tr>
       </table>
-      
+
       <br>
-      
+
       <table width="75%" border="5">
         <tr>
           <td>
@@ -26,53 +26,53 @@
           </td>
         </tr>
       </table>
-      
+
       <br>
-      
+
       <table width="75%">
         <tr>
           <td width="25%">
-            <img src="images/kai2.jpg" width="100%">
+            <img src="kai2.jpg" width="100%">
           </td>
           <td>
-            
+
             <b>Cita-cita</b>
             <ul>
               <li>Chef</li>
               <li>Pilot</li>
               <li>Businessman</li>
             </ul>
-            
+
             <b>Hobi</b>
             <ol>
-              <li>Main game</li>
               <li>Makan</li>
-              <li>Tengok tv</li>
+              <li>Main game</li>
+              <li>Tengok TV</li>
             </ol>
-            
-                      
+
+
           <b>Keistimewaan</b>
           <dl>
             <dt>baik</dt>
-            <dd>Sebab suka tengok orang buat kerja</dd>
-            <dt>pemalas</dt>
-            <dd>Sebab pemalas nak mandi</dd>
+            <dd>Kerana suka buat kerja</dd>
+            <dt>malas</dt>
+            <dd>Kerana malas nak mandi</dd>
           </dl>
-            
+
           </td>
         </tr>
       </table>
-      
+
       <br>
-        
+
        <table width="75%" border="2">
         <tr>
           <th>&#169;2021 Kolej Vokasional Perdagangan, Johor</th>
         </tr>
       </table>
-      
-      
+
+
     </center>
   </body>
-  
+
 </html>
